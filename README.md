@@ -80,14 +80,14 @@ ARCJET_KEY=your_arcjet_key
 ```
 
 ### 4️⃣ Setup Database  
-
+```bash
 npx prisma migrate dev
-
+```
 
 ### 5️⃣ Run Development Server  
-
+```bash
 npm run dev
-
+```
 App will be live at 👉 **http://localhost:3000**
 
 ---
